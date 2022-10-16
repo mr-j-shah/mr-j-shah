@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Here!
-##Jinay Shah, Developer
-<!--
-**mr-j-shah/mr-j-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jinay Shah, Developer
 
 Here are some ideas to get you started:
 
@@ -11,4 +9,3 @@ Here are some ideas to get you started:
 - :computer: Working for Incipient Technolgy Pvt. Ltd.
 - 💬 Ask me about Flutter
 - 📫 How to reach me: shahjinay02@gmail.com
--->
