@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Here!
-Jinay Shah, Developer
+Jinay Shah, Android Native and Flutter Developer
 
 Here are some ideas to get you started:
 
@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Server side Language and Cloud
 - 👯 I’m looking to collaborate on Software Developer
 - :computer: Working for The Anantkaal, Surat
-- 💬 Ask me about Flutter
+- 💬 Ask me about Android Native and Flutter
 - 📫 How to reach me: shahjinay02@gmail.com
 
 <h3 align="center">A passionate frontend developer from India</h3>
