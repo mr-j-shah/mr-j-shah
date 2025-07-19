@@ -3,14 +3,12 @@ Jinay Shah, Android Native and Flutter Developer
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Mobile Application Developer
-- 🌱 I’m currently learning Server side Language and Cloud
-- 👯 I’m looking to collaborate on Software Developer
-- :computer: Working for Crest Infosystems Pvt. Ltd., Surat
+- 🔭 I’m currently working on a Mobile Application Developer
+- 👯 I’m looking to collaborate on Software Development
 - 💬 Ask me about Android Native and Flutter
 - 📫 How to reach me: shahjinay02@gmail.com
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Flutter/Android Native developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-j-shah&label=Profile%20views&color=0e75b6&style=flat" alt="mr-j-shah" /> </p>
 
